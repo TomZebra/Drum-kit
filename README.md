@@ -18,3 +18,5 @@ Pull requests are welcome.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Capture](https://user-images.githubusercontent.com/119517554/224558284-3fd90e14-26d5-4bb5-af84-61b0397a39bb.PNG)
