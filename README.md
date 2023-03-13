@@ -4,7 +4,7 @@ Drum-kit is a drums soundboard
 
 ## Installation
 
-Just download the files and copy the index.html path from VSCode to your browser address bar.
+Just download the files and copy the index.html path to your browser address bar.
 
 
 ## Usage
